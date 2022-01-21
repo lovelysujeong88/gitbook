@@ -6,7 +6,11 @@ coverY: 0
 
 # Filing Expenses
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
+To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!\
+
+
+| Item | <p><br></p> | Check points | Mandatory/Optional | Guide link | 담당자 | Official |
+| ---- | ----------- | ------------ | ------------------ | ---------- | --- | -------- |
 
 {% hint style="info" %}
 **Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
